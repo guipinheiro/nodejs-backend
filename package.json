@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipinheiro/nodejs-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guipinheiro/nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/guipinheiro/nodejs-backend#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "slugify": "^1.6.5"
+  }
+}
