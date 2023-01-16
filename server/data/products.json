@@ -1,0 +1,16 @@
+{ 
+    "Soap": {
+        "id": 1,
+        "value": 10.5,
+        "cost": 5,
+        "brand": "Johnson",
+        "stock": 5
+    },
+    "Shampoo": {
+        "id": 2,
+        "value": 20,
+        "cost": 9,
+        "brand": "Procter and Gamble",
+        "stock": 3
+    }
+}
