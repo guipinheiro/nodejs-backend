@@ -9,6 +9,7 @@ const server = http.createServer((req, res) => {
 		do {
 			i++;
 		} while (i < 10000000000); //will be executed synchronously, so if someone accesses the about page, all servers will be blocked for other users
+		// Access the about page then access in another tab the localhost, it will be blocked
 	} else {
 		res.end("Page not found");
 	}
